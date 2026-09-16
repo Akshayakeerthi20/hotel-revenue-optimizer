@@ -1,4 +1,4 @@
-﻿---
+---
 title: Hotel Revenue Optimizer
 emoji: 🏨
 colorFrom: blue
